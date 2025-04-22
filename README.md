@@ -29,7 +29,7 @@ To run this project locally:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd abdumutolib.github.
+   cd abdumutolib.github.io
    ```
 3. Start the site with opening index.html
 
